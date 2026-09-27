@@ -1,0 +1,720 @@
+{
+  "brand": "Extracto Importado",
+  "descriptor": "Perfumes de equivalencia",
+  "version": "1.0 · 2026",
+  "heroLabel": "Manual de marca",
+  "heroTitle": "La precisión de un original.",
+  "heroText": "Extracto Importado acerca las fragancias más buscadas con extractos de alta concentración. Este manual reúne cómo se ve, cómo habla y cómo trabaja la marca, para que diseño, comunidad, revendedores y proveedores comuniquen lo mismo.",
+  "heroCta": "Explorar el manual",
+  "location": "Envíos a todo el país",
+  "footerText": "Encontrá tu perfume.",
+  "sections": [
+    {
+      "id": "esencia",
+      "navLabel": "Esencia",
+      "kicker": "01 · Esencia",
+      "title": "Una fragancia, un número",
+      "lead": "Extractos de alta concentración inspirados en las fragancias más buscadas. Vendemos online, por WhatsApp e Instagram, y a través de una red de revendedores que es el canal que más unidades mueve.",
+      "note": "",
+      "theme": "light",
+      "modules": [
+        {
+          "id": "historia",
+          "kind": "essence",
+          "title": "Qué es Extracto",
+          "body": "Extracto Importado ofrece perfumes de equivalencia con la precisión de un original. Cada fragancia se identifica con un número, tiene más de 200 opciones en stock y llega a todo el país. Nos diferencia la concentración del extracto, un precio accesible y una atención que sigue después de la compra.",
+          "media": "media/mockup-frascos.webp",
+          "note": "",
+          "items": [
+            "Precisión",
+            "Concentración",
+            "Cercanía"
+          ]
+        },
+        {
+          "id": "respaldo",
+          "kind": "stats",
+          "title": "Lo que nos respalda",
+          "body": "Los cuatro datos que se repiten en la web, en redes y en cada conversación de venta.",
+          "media": "",
+          "note": "",
+          "items": [
+            "+600.000 — Perfumes vendidos — En todo el país. Es nuestra prueba social principal.",
+            "+200 — Fragancias en stock — Femeninas, masculinas, unisex, body splash y discovery sets.",
+            "3 — Tamaños — 100, 50 y 30 ml, para cada tipo de compra.",
+            "3 cuotas — Sin interés — Con Mercado Pago. Transferencia con descuento."
+          ]
+        },
+        {
+          "id": "publico",
+          "kind": "cards",
+          "title": "Para quién hablamos",
+          "body": "Dos públicos con necesidades distintas. Cada pieza tiene que saber a cuál le habla.",
+          "media": "",
+          "note": "El perfil del revendedor está pendiente de definir con el equipo comercial.",
+          "items": [
+            "Consumidor final — Tiene entre 25 y 35 años, mitad hombres y mitad mujeres. Busca perfumes reconocidos a un precio accesible y valora la duración.",
+            "Revendedor — Busca un producto que se venda solo, buen margen y un proveedor que lo acompañe con material y respuestas rápidas."
+          ]
+        },
+        {
+          "id": "objetivos",
+          "kind": "standard",
+          "title": "Objetivos del área",
+          "body": "Todo lo que se publica tiene que empujar al menos uno de estos objetivos.",
+          "media": "",
+          "note": "",
+          "items": [
+            "Más ventas",
+            "Más reconocimiento de marca",
+            "Fidelizar clientes",
+            "Sumar revendedores",
+            "Redes al día con las tendencias"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "marca",
+      "navLabel": "Logo",
+      "kicker": "02 · Logo",
+      "title": "Una firma con brillo propio",
+      "lead": "Una sola firma, varias configuraciones. Elegí la versión según el espacio disponible y mantené siempre sus proporciones.",
+      "note": "",
+      "theme": "white",
+      "modules": [
+        {
+          "id": "logo",
+          "kind": "logo",
+          "title": "Sistema de logos",
+          "body": "EXTRACTO, en mayúsculas espaciadas, es la palabra principal. IMPORTADO la acompaña en una línea más fina, entre dos filetes dorados que se afinan hacia afuera. El selector reúne las versiones principal, vertical, compacta, logotipo e isotipo. Sobre claro va en negro con filetes dorados; sobre negro, en blanco con filetes dorados; sobre oro, en negro monocromático.",
+          "media": "",
+          "note": "El logo principal es el archivo oficial. El isotipo (la E dentro de una etiqueta) y las versiones vertical y compacta son una propuesta construida con la E del logo.",
+          "items": []
+        },
+        {
+          "id": "proteccion",
+          "kind": "clearspace",
+          "title": "Espacio de protección",
+          "body": "Dejá libre alrededor del logo, como mínimo, el alto de la letra E. Textos, bordes y fotos con mucho detalle no deben invadir esa zona. Tamaño mínimo: 120 px de ancho en digital y 30 mm en impreso; por debajo, usá el logotipo o el isotipo.",
+          "media": "",
+          "note": "",
+          "items": []
+        },
+        {
+          "id": "errores",
+          "kind": "incorrect",
+          "title": "Usos incorrectos",
+          "body": "La firma mantiene su color, forma, proporción y orientación. Si el logo no funciona en una pieza, elegí otra versión o cambiá su ubicación.",
+          "media": "",
+          "note": "",
+          "items": [
+            "Cambiar el color",
+            "Agregar contorno",
+            "Modificar las formas",
+            "Dar volumen",
+            "Agregar sombra",
+            "Reflejar",
+            "Comprimir",
+            "Expandir",
+            "Rotar"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "color",
+      "navLabel": "Color",
+      "kicker": "03 · Color",
+      "title": "Neutros con un solo acento",
+      "lead": "La marca vive en blanco y negro. El producto y la fotografía ponen el color; el dorado de los filetes del logo aparece solo para destacar.",
+      "note": "",
+      "theme": "light",
+      "modules": [
+        {
+          "id": "paleta",
+          "kind": "palette",
+          "title": "Paleta",
+          "body": "Negro y blancos son la base de todas las piezas. El dorado sale de los filetes del logo y recuerda el color del extracto dentro del frasco: se usa para un código, un precio o un botón. Tocá un color para copiar su código.",
+          "media": "",
+          "note": "El dorado se tomó del archivo del logo. Para imprenta, confirmar el Pantone con la diseñadora.",
+          "items": []
+        },
+        {
+          "id": "proporcion",
+          "kind": "stats",
+          "title": "Cuánto de cada color",
+          "body": "Una guía rápida para que ninguna pieza se vuelva dorada o gris.",
+          "media": "",
+          "note": "",
+          "items": [
+            "70% — Neutros — Fondos blancos, niebla, grafito y negro.",
+            "25% — Fotografía — El frasco, la piel, los ingredientes.",
+            "5% — Dorado — Un código, un precio o un botón."
+          ]
+        },
+        {
+          "id": "tonos",
+          "kind": "tints",
+          "title": "Tonos y matices",
+          "body": "Para fondos, estados e ilustraciones, mezclá los colores de marca con blanco o con negro. Elegí el color base y la intensidad, y copiá el código.",
+          "media": "",
+          "note": "",
+          "items": []
+        },
+        {
+          "id": "combinaciones",
+          "kind": "contrast",
+          "title": "Contraste y jerarquía",
+          "body": "Cuatro fondos posibles con su combinación de textos. El comparador calcula el contraste de cada color sobre el fondo.",
+          "media": "",
+          "note": "",
+          "items": [
+            "Perfumes de equivalencia",
+            "La precisión de un original.",
+            "Extractos de alta concentración inspirados en las fragancias más buscadas.",
+            "Envíos a todo el país"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tipografia",
+      "navLabel": "Tipografía",
+      "kicker": "04 · Tipografía",
+      "title": "Una sola familia, varios pesos",
+      "lead": "Gotham es la tipografía de la marca: la misma voz geométrica de IMPORTADO en el logo. Light para titulares, Book para leer y Medium para etiquetas y botones.",
+      "note": "",
+      "theme": "white",
+      "modules": [
+        {
+          "id": "tipo-logo",
+          "kind": "type-logo",
+          "title": "Lettering del logo",
+          "body": "El logo se aplica siempre desde su archivo oficial. No se reescribe con una fuente.",
+          "media": "",
+          "note": "",
+          "items": []
+        },
+        {
+          "id": "tipo-display",
+          "kind": "type-display",
+          "title": "Gotham",
+          "body": "Tres pesos resuelven casi todo: Light para titulares y frases de campaña, Medium para etiquetas y códigos, Bold para precios y destacados. Las etiquetas van en mayúsculas espaciadas, como IMPORTADO.",
+          "media": "",
+          "note": "",
+          "items": []
+        },
+        {
+          "id": "tipo-body",
+          "kind": "type-body",
+          "title": "Gotham en textos",
+          "body": "Book para párrafos, descripciones de fragancias y respuestas. Entre 15 y 17 px en pantalla, con buen interlineado.",
+          "media": "",
+          "note": "Si Gotham no está instalada (por ejemplo, en una computadora de un revendedor), usar Montserrat como reemplazo.",
+          "items": []
+        },
+        {
+          "id": "jerarquia",
+          "kind": "type-scale",
+          "title": "Jerarquía",
+          "body": "Cinco niveles para ordenar cualquier pieza, de la historia de Instagram al catálogo.",
+          "media": "",
+          "note": "",
+          "items": [
+            "H1 · Gotham Light — La precisión de un original",
+            "H2 · Gotham Light — Hay aromas que tienen nombre",
+            "H3 · Gotham Medium — Notas de salida, corazón y fondo",
+            "Destacado · Gotham Medium — EXTRACTO N100 · 100 ml · $45.000",
+            "Párrafo · Gotham Book — Extractos de alta concentración inspirados en las fragancias más buscadas. Envíos a todo el país."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "voz",
+      "navLabel": "Voz",
+      "kicker": "05 · Voz y contenido",
+      "title": "Cómo hablamos",
+      "lead": "Premium y con el lenguaje de la perfumería, sin exagerar. Hablamos de vos, con seguridad y sin gritar. Somos más accesibles que el original y no lo escondemos, pero lo que vendemos es la fragancia.",
+      "note": "",
+      "theme": "dark",
+      "modules": [
+        {
+          "id": "principios",
+          "kind": "cards",
+          "title": "Tres principios",
+          "body": "Antes de publicar, el texto tiene que pasar estas tres pruebas.",
+          "media": "",
+          "note": "",
+          "items": [
+            "Preciso — Nombramos notas, familias y concentración. Un dato concreto vende más que un adjetivo.",
+            "Cercano — Voseo y frases cortas, como alguien que sabe de perfumes y te recomienda uno.",
+            "Sobrio — Sin signos repetidos ni superlativos. Máximo un emoji por texto, y solo en redes."
+          ]
+        },
+        {
+          "id": "tono",
+          "kind": "tone",
+          "title": "Así sí, así no",
+          "body": "Ejemplos reales para comparar. Sirven para textos de redes, anuncios, WhatsApp y web.",
+          "media": "",
+          "note": "",
+          "items": [
+            "N100: pera, iris y praliné. Dulce, cálido y persistente. || ¡¡¡El más rico del mundo!!! Igualito, nadie se va a dar cuenta 🔥🔥",
+            "Llega en 24 h hábiles en CABA y en 3 a 5 días al interior. || Envíos rapidísimos a todos lados.",
+            "Uno para ella, uno para vos. Llevando dos, pagás menos. || MEGA PROMO IMPERDIBLE, CORRÉ QUE SE TERMINA.",
+            "Perfume de equivalencia de alta concentración. || Réplica, copia, imitación."
+          ]
+        },
+        {
+          "id": "lexico",
+          "kind": "lexicon",
+          "title": "Vocabulario de la casa",
+          "body": "Palabras que usamos para describir una fragancia.",
+          "media": "",
+          "note": "",
+          "items": [
+            "notas de salida",
+            "corazón",
+            "fondo",
+            "estela",
+            "fijación",
+            "familia olfativa",
+            "amaderado",
+            "ambarado",
+            "floral",
+            "cítrico",
+            "gourmand",
+            "aromático",
+            "alta concentración",
+            "equivalencia",
+            "tu firma"
+          ]
+        },
+        {
+          "id": "pilares",
+          "kind": "pillars",
+          "title": "Pilares de contenido",
+          "body": "Cómo se reparte lo que publicamos en el mes. Sirve para armar el calendario y para revisar si nos estamos desbalanceando. TikTok abre en noviembre con 3 publicaciones por semana.",
+          "media": "",
+          "note": "",
+          "items": [
+            "La fragancia | 30 | Notas, ocasiones de uso, el frasco",
+            "Cultura olfativa | 20 | Familias, cómo aplicar, cómo elegir",
+            "Prueba social | 20 | Reseñas, clientes, los +600.000",
+            "Vende Extracto | 15 | Captar y mostrar revendedores",
+            "Tendencias | 15 | Formatos y audios del momento"
+          ]
+        },
+        {
+          "id": "textos",
+          "kind": "snippets",
+          "title": "Textos listos para copiar",
+          "body": "Respuestas y textos base para redes y WhatsApp. Adaptalos al caso sin cambiar los datos.",
+          "media": "",
+          "note": "",
+          "items": [
+            "Bio de Instagram — Perfumes de equivalencia con la precisión de un original. +600.000 vendidos · Envíos a todo el país · Revendé Extracto 👇",
+            "¿Cuánto tarda el envío? — ¡Hola! En CABA llega en 24 h hábiles por moto. En GBA, de 2 a 3 días hábiles, y al interior, de 3 a 5 días hábiles por OCA. Te pasamos el seguimiento apenas sale.",
+            "¿Cómo puedo pagar? — Podés pagar con Mercado Pago, con débito o crédito hasta en 3 cuotas sin interés, o por transferencia con un descuento especial.",
+            "¿Cuánto dura? — Son extractos de alta concentración, por eso tienen buena fijación en la piel. La duración depende de cada fragancia y de tu piel. Si querés, te recomiendo las que más duran según lo que te guste.",
+            "Quiero revender — ¡Genial! Tenemos precios especiales para revendedores, +200 fragancias en stock y te acompañamos con soporte y material para vender. Te paso con la línea de revendedores para contarte cómo empezar.",
+            "Posventa, día 3 — ¡Hola! ¿Ya te llegó tu Extracto? Queríamos saber qué te pareció. Si tenés cualquier duda, escribinos por acá."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "producto",
+      "navLabel": "Producto",
+      "kicker": "06 · Producto",
+      "title": "Catálogo, canales y revendedores",
+      "lead": "La información que todo el equipo tiene que dar igual, en cualquier canal.",
+      "note": "",
+      "theme": "light",
+      "modules": [
+        {
+          "id": "catalogo",
+          "kind": "catalog",
+          "title": "Best sellers",
+          "body": "El precio de referencia de los más vendidos es $45.000 (septiembre de 2026). Activá la vista para anuncios pagos para ver cómo se comunican en Meta y TikTok: solo código y notas, sin la marca original.",
+          "media": "",
+          "note": "En el sitio se muestra «Equivalente a [marca]», pendiente de revisión legal. En historias orgánicas se nombra de forma ocasional.",
+          "items": [
+            "Código | Línea | Equivalencia | Referencia",
+            "N100 | Femenino | La Vida es Bella | $45.000",
+            "N148 | Masculino | Sauvage | $45.000",
+            "N194 | Unisex | Erba Pura | $45.000",
+            "N36 | Femenino | Black Opium | $45.000",
+            "N88 | Masculino | Invictus | $45.000"
+          ]
+        },
+        {
+          "id": "nomenclatura",
+          "kind": "stats",
+          "title": "Nomenclatura y presentaciones",
+          "body": "Cada fragancia es un número. Se escribe EXTRACTO N100, N148, etc., sin ceros a la izquierda. El número es la identidad del producto en piezas, anuncios, etiquetas y conversaciones.",
+          "media": "",
+          "note": "",
+          "items": [
+            "100 ml — Frasco principal — El formato de referencia de precios.",
+            "50 ml — Formato medio — Para regalar o combinar.",
+            "30 ml — Para probar — Ideal para revendedores y discovery."
+          ]
+        },
+        {
+          "id": "canales",
+          "kind": "contacts",
+          "title": "Canales",
+          "body": "Dónde estamos. Tocá un dato para copiarlo.",
+          "media": "",
+          "note": "",
+          "items": [
+            "Web | extractoimportado.com.ar | Tienda online",
+            "Instagram | @extractoimportado | Canal principal de contenido",
+            "TikTok | @extractoimportado | Apertura activa en noviembre",
+            "WhatsApp | +54 9 11 4492 4153 | Ventas y posventa",
+            "Revendedores | vendeextracto.com.ar | Vende Extracto"
+          ]
+        },
+        {
+          "id": "envios",
+          "kind": "table",
+          "title": "Envíos",
+          "body": "Con seguimiento del pedido. En fechas de mucha demanda (Cyber, Black Friday, Navidad) los plazos pueden extenderse: avisarlo siempre en las piezas de esas campañas.",
+          "media": "",
+          "note": "",
+          "items": [
+            "Zona | Envío | Demora",
+            "CABA | Motomensajería | 24 h hábiles",
+            "Gran Buenos Aires | OCA | 2 a 3 días hábiles",
+            "Interior del país | OCA | 3 a 5 días hábiles"
+          ]
+        },
+        {
+          "id": "pagos",
+          "kind": "cards",
+          "title": "Pagos y atención",
+          "body": "",
+          "media": "",
+          "note": "",
+          "items": [
+            "Pagos — Mercado Pago con débito o crédito, hasta 3 cuotas sin interés. Transferencia bancaria con descuento especial.",
+            "Consultas — Por WhatsApp, Instagram y TikTok, con dos líneas según el tipo de cliente: consumidor final y revendedor.",
+            "Cambios y devoluciones — Se resuelven por mail o por el WhatsApp de soporte, según las políticas vigentes."
+          ]
+        },
+        {
+          "id": "vende",
+          "kind": "cards",
+          "title": "Vende Extracto",
+          "body": "Crecé con nosotros. La red de revendedores es el canal principal: se comunica como una oportunidad de negocio acompañada, no como un producto más.",
+          "media": "",
+          "note": "Cada mes, los revendedores reciben un kit de piezas y textos, el aviso anticipado de lanzamientos y novedades por un canal de difusión de WhatsApp propio.",
+          "items": [
+            "Convertí Extracto en tu negocio — Precios especiales para revendedores.",
+            "+200 fragancias en stock — Presentaciones para cada tipo de venta.",
+            "Soporte y herramientas — Atención, asistencia personalizada y material de marketing."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "aplicaciones",
+      "navLabel": "Aplicaciones",
+      "kicker": "07 · Aplicaciones",
+      "title": "La marca en acción",
+      "lead": "Cómo se aplica la identidad en pantalla y en soportes físicos. Son maquetas conceptuales creadas para ilustrar el sistema, no fotografías de productos reales.",
+      "note": "",
+      "theme": "dark",
+      "modules": [
+        {
+          "id": "patrones",
+          "kind": "patterns",
+          "title": "Recursos gráficos",
+          "body": "Dos tramas construidas con el isotipo para fondos de historias, packaging y papelería. Se usan sobre negro o sobre oro, nunca sobre una foto.",
+          "media": "",
+          "note": "",
+          "items": [
+            "Trama de etiquetas",
+            "Ritmo alternado"
+          ]
+        },
+        {
+          "id": "app-frascos",
+          "kind": "showcase",
+          "category": "Producto",
+          "title": "Línea de best sellers",
+          "body": "Los cinco más vendidos con la etiqueta blanca y el código en serif.",
+          "media": "media/mockup-frascos.webp",
+          "note": "",
+          "items": []
+        },
+        {
+          "id": "app-caja",
+          "kind": "showcase",
+          "category": "Packaging",
+          "title": "Caja y frasco",
+          "body": "Caja negra con el logo vertical, filete dorado y el código en el frente.",
+          "media": "media/mockup-caja.webp",
+          "note": "",
+          "items": []
+        },
+        {
+          "id": "app-regalo",
+          "kind": "showcase",
+          "category": "Packaging",
+          "title": "Bolsa y tarjeta de regalo",
+          "body": "Para el Día de la Madre: «Hay aromas que tienen nombre».",
+          "media": "media/mockup-regalo.webp",
+          "note": "",
+          "items": []
+        },
+        {
+          "id": "app-post",
+          "kind": "showcase",
+          "category": "Redes",
+          "title": "Publicación de Instagram",
+          "body": "Formato 4:5 con fondo negro, resplandor dorado y notas de la fragancia.",
+          "media": "media/mockup-post.webp",
+          "note": "",
+          "items": []
+        },
+        {
+          "id": "app-historia",
+          "kind": "showcase",
+          "category": "Redes",
+          "title": "Historias",
+          "body": "Teaser del lanzamiento con el número oculto y guía de regalo en fondo claro.",
+          "media": "media/mockup-historia.webp",
+          "note": "",
+          "items": []
+        },
+        {
+          "id": "app-whatsapp",
+          "kind": "showcase",
+          "category": "Atención",
+          "title": "Posventa por WhatsApp",
+          "body": "El mensaje del día 3, con recomendación y respuesta sobre envíos.",
+          "media": "media/mockup-whatsapp.webp",
+          "note": "",
+          "items": []
+        },
+        {
+          "id": "app-banner",
+          "kind": "showcase",
+          "category": "Web",
+          "title": "Banner del sitio",
+          "body": "Banner de campaña de 1440 × 360 sobre la cabecera negra del sitio.",
+          "media": "media/mockup-banner.webp",
+          "note": "",
+          "items": []
+        },
+        {
+          "id": "app-revendedores",
+          "kind": "showcase",
+          "category": "Revendedores",
+          "title": "Kit de revendedores",
+          "body": "Portada del catálogo, lista de best sellers y frascos de 30 ml.",
+          "media": "media/mockup-revendedores.webp",
+          "note": "",
+          "items": []
+        },
+        {
+          "id": "app-envio",
+          "kind": "showcase",
+          "category": "Envíos",
+          "title": "Caja de envío",
+          "body": "Cinta negra con el logotipo, etiqueta de envío y sello con el isotipo.",
+          "media": "media/mockup-envio.webp",
+          "note": "",
+          "items": []
+        },
+        {
+          "id": "app-tarjeta",
+          "kind": "showcase",
+          "category": "Papelería",
+          "title": "Tarjeta de agradecimiento",
+          "body": "Va dentro de cada pedido, con el usuario de Instagram y stickers del isotipo.",
+          "media": "media/mockup-tarjeta.webp",
+          "note": "",
+          "items": []
+        }
+      ]
+    },
+    {
+      "id": "equipo",
+      "navLabel": "Equipo",
+      "kicker": "08 · Equipo",
+      "title": "Cómo trabajamos",
+      "lead": "Roles, pedidos de piezas, reuniones fijas y lanzamientos del área de marketing. Las decisiones de esta sección están propuestas y esperan aprobación.",
+      "note": "",
+      "theme": "white",
+      "modules": [
+        {
+          "id": "roles",
+          "kind": "cards",
+          "title": "Roles",
+          "body": "",
+          "media": "",
+          "note": "",
+          "items": [
+            "Matías, lidera — Estrategia, aprobaciones, coordinación con otras áreas y proveedores.",
+            "Diseño — Piezas gráficas y plantillas editables.",
+            "Community manager — Calendario, respuestas, tendencias y reporte cada 15 días.",
+            "Proveedores — Una producción de fotos y video por mes."
+          ]
+        },
+        {
+          "id": "flujo",
+          "kind": "flow",
+          "title": "Cómo se pide una pieza",
+          "body": "Una sola entrada para todos los pedidos. Sin brief no entra.",
+          "media": "",
+          "note": "",
+          "items": [
+            "Brief — Completar el generador de brief de esta sección.",
+            "Tablero — Se carga en el tablero de tareas, única entrada.",
+            "Diseño — La diseñadora toma el pedido según el plazo.",
+            "Aprobación — Matías aprueba, con hasta 2 rondas de cambios.",
+            "Publicación — La CM programa y guarda la pieza en la carpeta."
+          ]
+        },
+        {
+          "id": "plazos",
+          "kind": "stats",
+          "title": "Plazos",
+          "body": "",
+          "media": "",
+          "note": "",
+          "items": [
+            "3 días — Pieza nueva — Hábiles, desde el brief completo.",
+            "24 h — Adaptación de plantilla — Cambiar texto, código o formato.",
+            "2 por semana — Urgencias — Cupo máximo; se aprueban con Matías."
+          ]
+        },
+        {
+          "id": "rituales",
+          "kind": "cards",
+          "title": "Reuniones fijas",
+          "body": "",
+          "media": "",
+          "note": "",
+          "items": [
+            "Lunes — Planificación semanal.",
+            "Cada 15 días — Revisión de métricas.",
+            "Día 20 — Cierre del calendario del mes siguiente.",
+            "Mensual — Reunión con otras áreas."
+          ]
+        },
+        {
+          "id": "brief",
+          "kind": "brief",
+          "title": "Generador de brief",
+          "body": "Completá los campos y copiá el brief para pegarlo en el tablero. La fecha se chequea contra los plazos del área.",
+          "media": "",
+          "note": "",
+          "items": []
+        },
+        {
+          "id": "lanzamiento",
+          "kind": "checklist",
+          "title": "Checklist de lanzamiento",
+          "body": "El recorrido estándar de una fragancia nueva, de 30 días antes a 30 días después. Las tildes quedan guardadas en este navegador.",
+          "media": "",
+          "note": "",
+          "items": [
+            "T-30 | un mes antes | Confirmar código, notas, familia olfativa y precio; Definir concepto y mensaje principal; Coordinar stock y fecha con las otras áreas; Agendar la producción de fotos y video",
+            "T-21 | 3 semanas | Brief a la diseñadora y a la CM; Producción de fotos y video; Guiones de reels y teaser",
+            "T-14 | 2 semanas | Piezas aprobadas: post, historias, anuncios y banner web; Kit para revendedores armado; Textos de WhatsApp y respuestas frecuentes",
+            "T-7 | 1 semana | Aviso anticipado a revendedores con el kit; Producto cargado en el sitio (oculto); Campañas pagas armadas y en revisión",
+            "T-2 | 2 días | Teaser con el número oculto; Cuenta regresiva en historias",
+            "T0 | lanzamiento | Revelación en Instagram y TikTok; Producto visible en el sitio; Difusión por WhatsApp a clientes y revendedores; Pauta activa",
+            "T+1 | días 1 a 10 | Sostén: reseñas, reels de uso y respuestas a comentarios; Primer control de ventas y de la pauta",
+            "T+30 | un mes después | Informe: ventas, alcance, pauta y aprendizajes; Decidir si la fragancia entra al calendario fijo"
+          ]
+        }
+      ]
+    }
+  ],
+  "palette": [
+    {
+      "name": "Oro Extracto",
+      "hex": "#C89210",
+      "rgb": "200, 146, 16",
+      "cmyk": "0, 27, 92, 22"
+    },
+    {
+      "name": "Negro",
+      "hex": "#050505",
+      "rgb": "5, 5, 5",
+      "cmyk": "60, 40, 40, 100 (negro enriquecido sugerido)"
+    },
+    {
+      "name": "Grafito",
+      "hex": "#3A3A38",
+      "rgb": "58, 58, 56",
+      "cmyk": "0, 0, 3, 77"
+    },
+    {
+      "name": "Gris piedra",
+      "hex": "#C9C7C2",
+      "rgb": "201, 199, 194",
+      "cmyk": "0, 1, 3, 21"
+    },
+    {
+      "name": "Blanco niebla",
+      "hex": "#F4F3F0",
+      "rgb": "244, 243, 240",
+      "cmyk": "0, 0, 2, 4"
+    },
+    {
+      "name": "Blanco",
+      "hex": "#FFFFFF",
+      "rgb": "255, 255, 255",
+      "cmyk": "0, 0, 0, 0"
+    }
+  ],
+  "logos": {
+    "principal": {
+      "claro": "media/logo-extracto.svg",
+      "oscuro": "media/logo-extracto-white.svg",
+      "ambar": "media/logo-extracto-mono.svg"
+    },
+    "vertical": {
+      "claro": "media/logo-vertical.svg",
+      "oscuro": "media/logo-vertical-white.svg",
+      "ambar": "media/logo-vertical-mono.svg"
+    },
+    "compacto": {
+      "claro": "media/logo-compacto.svg",
+      "oscuro": "media/logo-compacto-white.svg",
+      "ambar": "media/logo-compacto-mono.svg"
+    },
+    "logotipo": {
+      "claro": "media/logotipo.svg",
+      "oscuro": "media/logotipo-white.svg",
+      "ambar": "media/logotipo-mono.svg"
+    },
+    "isotipo": {
+      "claro": "media/isotipo.svg",
+      "oscuro": "media/isotipo-white.svg",
+      "ambar": "media/isotipo-mono.svg"
+    }
+  },
+  "kit": {
+    "kicker": "Descargas",
+    "title": "Kit de marca",
+    "lead": "Todo lo necesario para aplicar la identidad en redes, web, packaging y papelería, listo para descargar.",
+    "zip": "media/descargas/extracto-logos.zip",
+    "note": "El logo principal es el archivo oficial vectorizado. El isotipo y las versiones vertical y compacta son una propuesta construida con la E del logo: validalas con la diseñadora antes de producir.",
+    "letterheadDocx": "media/descargas/extracto-hoja-membretada.docx",
+    "letterheadPdf": "media/descargas/extracto-hoja-membretada.pdf",
+    "manualPdf": "media/descargas/extracto-manual-de-marca.pdf"
+  },
+  "drive": {
+    "folder": "",
+    "apiKey": ""
+  }
+}
