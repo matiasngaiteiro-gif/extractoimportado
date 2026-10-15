@@ -1,0 +1,8 @@
+hero 200
+linea 200
+caja 200
+bolsa 200
+papeleria 200
+local 200
+afiche 200
+redes 200
