@@ -1,8 +1,3 @@
-hero 200
-linea 200
-caja 200
-bolsa 200
-papeleria 200
-local 200
-afiche 200
-redes 200
+caja2 200
+local2 200
+afiche2 200
