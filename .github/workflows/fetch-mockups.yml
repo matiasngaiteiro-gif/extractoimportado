@@ -1,0 +1,29 @@
+name: fetch-mockups
+on:
+  push:
+    branches: [brand-assets]
+    paths: [brand/mockups.txt]
+permissions:
+  contents: write
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Descargar mockups
+        run: |
+          mkdir -p brand/mockups
+          while read -r name url; do
+            [ -z "$name" ] && continue
+            curl -sSfL "$url" -o "brand/mockups/$name.png"
+            convert "brand/mockups/$name.png" -resize 1920x -quality 82 "brand/mockups/$name.jpg"
+            rm "brand/mockups/$name.png"
+          done < brand/mockups.txt
+          ls -la brand/mockups
+      - name: Commit
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          git add brand/mockups
+          git commit -m "Mockups de marca (Magnific)" || exit 0
+          git push
