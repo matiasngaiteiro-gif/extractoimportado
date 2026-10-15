@@ -13,11 +13,13 @@ jobs:
       - name: Descargar mockups
         run: |
           mkdir -p brand/mockups
+          pip install --quiet pillow
+          : > brand/mockups/log.txt
           while read -r name url; do
             [ -z "$name" ] && continue
-            curl -sSfL "$url" -o "brand/mockups/$name.png"
-            convert "brand/mockups/$name.png" -resize 1920x -quality 82 "brand/mockups/$name.jpg"
-            rm "brand/mockups/$name.png"
+            code=$(curl -sSL -A "Mozilla/5.0" -o "/tmp/$name.png" -w "%{http_code}" "$url" || echo ERR)
+            echo "$name $code" >> brand/mockups/log.txt
+            python3 -c "from PIL import Image;im=Image.open('/tmp/$name.png').convert('RGB');im.thumbnail((1920,1920));im.save('brand/mockups/$name.jpg',quality=84,optimize=True)" >> brand/mockups/log.txt 2>&1 || echo "$name convert-fail" >> brand/mockups/log.txt
           done < brand/mockups.txt
           ls -la brand/mockups
       - name: Commit
